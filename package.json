@@ -1,0 +1,19 @@
+{
+  "name": "stack-part-2",
+  "version": "1.0.0",
+  "description": "learn TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "m'bark bouznir",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.0.4",
+    "nightmare": "^2.10.0"
+  },
+  "jest": {
+    "verbose": true,
+    "collectCoverage": true
+  }
+}
